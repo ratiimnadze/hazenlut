@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Helvetica, sans-serif;
+}
+.container{
+    width: 100%;
+    max-width: 1050px;
+    margin: auto;
+}
+.nut-pic{
+    width: 1058px;
+    height: 446px;
+   
+}
+.content{
+    width: 756px;
+    margin-top: -200px!important;
+    margin: auto;
+}
+.main-heading{
+    height: 99px;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 45.87px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+.pink-box{
+    background-color: #F4CDB3;
+    position: relative;
+    padding: 31px;
+}
+.pink-box-heading{
+    color:#FFFFFF;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 27.05px;
+}
+.pink-box-paragraph{
+    padding-top: 36px;
+    color:  #FFFFFF;
+    font-size: 16px;
+    line-height: 18.03px;
+    font-weight: 400;
+}
+.middle-paragraph{
+    padding: 61px 0px;
+}
+.midle-paragraph-link{
+    color: rgba(122, 104, 3, 0.978);
+}
+.plantation-pic{
+    width: 753px;
+    height: 308px;
+
+}
